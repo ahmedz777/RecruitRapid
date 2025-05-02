@@ -49,7 +49,7 @@ project-root/
 └── requirements.txt
 ```
 
-## 📄 How to Run
+## How to Run
 
 1. Clone the repository:
     ```bash
